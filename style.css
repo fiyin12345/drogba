@@ -1,9 +1,9 @@
-body {
+.container-fluid {
     background-color: rgb(38, 0, 255);
 }
 h1 {
     text-align: center;
 }
-img {
-    margin-left: 30%;
+#title {
+    font-family: "Jacquard 12 Charted", system-ui;
 }
